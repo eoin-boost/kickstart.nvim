@@ -34,7 +34,7 @@ return {
       formatters_by_ft = {
         lua = { 'stylua' },
         eruby = { 'erb_format' },
-        javascriptreact = { 'prettierd' },
+        javascriptreact = { 'standardjs' },
         ruby = { 'standardrb' },
         javascript = { 'standardjs' },
         -- Conform can also run multiple formatters sequentially
